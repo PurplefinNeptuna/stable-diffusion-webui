@@ -1,10 +1,10 @@
 setuptools==69.5.1  # temp fix for compatibility with some old packages
-protobuf==3.20.0
+protobuf==4.25.3
 spandrel-extra-arches==0.1.1
 GitPython==3.1.43
-Pillow==10.3.0
+Pillow==9.5.0
 accelerate==0.29.3
-blendmodes==2024.1.1
+blendmodes==2022
 clean-fid==0.1.35
 diskcache==5.6.3
 einops==0.8.0
